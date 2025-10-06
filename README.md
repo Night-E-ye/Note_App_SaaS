@@ -17,6 +17,17 @@ A modern, feature-rich web application for managing personal notes, built from t
 You can test the live application here: **[https://noteappsaas.replit.dev/](https://23805adc-85fa-4d4b-8c2f-27b01162fa7a-00-2s9x7hq4wp0px.worf.replit.dev/index.html)**
 
 ---
+## 📸 Preview
+<img width="1919" height="877" alt="Screenshot 2025-10-06 230216" src="https://github.com/user-attachments/assets/dc300b71-78ec-4bc5-8664-1c11bbce3a52" />
+<img width="1918" height="880" alt="Screenshot 2025-10-06 230157" src="https://github.com/user-attachments/assets/023811df-e0bb-4fe8-81bc-4bbc19013171" />
+<img width="1919" height="880" alt="Screenshot 2025-10-06 230129" src="https://github.com/user-attachments/assets/0be7f047-cdb9-40e1-b313-71d4563c2a7c" />
+<img width="1919" height="874" alt="Screenshot 2025-10-06 230032" src="https://github.com/user-attachments/assets/659a9b4d-d401-4a75-b833-0609c797730c" />
+<img width="1918" height="879" alt="Screenshot 2025-10-06 230335" src="https://github.com/user-attachments/assets/55521f99-050b-407f-802c-0d60afe44b5d" />
+<img width="1919" height="878" alt="Screenshot 2025-10-06 230304" src="https://github.com/user-attachments/assets/fe644021-6d9c-46ac-8302-9be22fef97b6" />
+<img width="1919" height="874" alt="Screenshot 2025-10-06 230229" src="https://github.com/user-attachments/assets/ec480126-4d02-422d-8770-3be5bbbf7609" />
+
+
+---
 
 ## ✨ Features
 
