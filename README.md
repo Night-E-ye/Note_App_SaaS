@@ -14,7 +14,7 @@ A modern, feature-rich web application for managing personal notes, built from t
 
 ## 🚀 Replit 
 
-You can check the application here: **[https://noteappsaas.replit.dev/](https://replit.com/@DurgeshSharma7)**
+You can check the application here[NoteAppSaaS]: **[https://noteappsaas.replit.dev/](https://replit.com/@DurgeshSharma7)**
 
 ---
 ## 📸 Preview
