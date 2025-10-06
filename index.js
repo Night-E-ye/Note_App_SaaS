@@ -11,7 +11,7 @@ const path = require("path");
 
 // MongoDB connection
 const MONGO_URI =
-  "mongodb+srv://noteapp_user:lSbwrsAhDsuM4VpL@noteappcluster.cutmdne.mongodb.net/NoteAppDB?retryWrites=true&w=majority";
+  (process.env.MONGOOSE_URL);
 mongoose
   .connect(MONGO_URI)
   .then(() => console.log("✅ MongoDB connected"))
