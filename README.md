@@ -12,9 +12,9 @@ A modern, feature-rich web application for managing personal notes, built from t
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Replit 
 
-You can test the live application here: **[https://noteappsaas.replit.dev/](https://23805adc-85fa-4d4b-8c2f-27b01162fa7a-00-2s9x7hq4wp0px.worf.replit.dev/index.html)**
+You can check the application here: **[https://noteappsaas.replit.dev/](https://replit.com/@DurgeshSharma7)**
 
 ---
 ## 📸 Preview
