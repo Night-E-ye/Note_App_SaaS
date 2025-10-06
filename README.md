@@ -8,13 +8,9 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
-A modern, feature-rich web application for managing personal notes, built from the ground up with a secure backend and a clean, responsive frontend.
+A modern, feature-rich web application for managing personal notes, built from the ground up with a secure backend and a clean, responsive frontend
 
----
 
-## 🚀 Replit 
-
-You can check the application here[NoteAppSaaS]: **[https://noteappsaas.replit.dev/](https://replit.com/@DurgeshSharma7)**
 
 ---
 ## 📸 Preview
